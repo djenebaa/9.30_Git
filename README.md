@@ -2,7 +2,7 @@
 
 # Config
 
-![App Screenshot step1](/serveur/Images/package.png)
+![App Screenshot step1](./serveur/Images/package.png)
 
 # Design patterns
 
