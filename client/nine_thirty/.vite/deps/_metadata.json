@@ -1,0 +1,43 @@
+{
+<<<<<<< HEAD
+  "hash": "64dac0ee",
+  "browserHash": "f918df9d",
+=======
+  "hash": "87d4aeb3",
+  "browserHash": "39ad6d74",
+>>>>>>> 09c4be975ac94cba8c678f532361682b2a38f915
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+<<<<<<< HEAD
+      "fileHash": "61be8259",
+=======
+      "fileHash": "b60454c9",
+>>>>>>> 09c4be975ac94cba8c678f532361682b2a38f915
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+<<<<<<< HEAD
+      "fileHash": "f0a4b32c",
+      "needsInterop": true
+=======
+      "fileHash": "a01399de",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "d5d948db",
+      "needsInterop": false
+>>>>>>> 09c4be975ac94cba8c678f532361682b2a38f915
+    }
+  },
+  "chunks": {
+    "chunk-V42YN7MM": {
+      "file": "chunk-V42YN7MM.js"
+    }
+  }
+}
