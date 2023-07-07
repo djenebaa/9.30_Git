@@ -2,7 +2,7 @@
 
 # Config
 
-![App Screenshot step1](./serveur/Images/package.png)
+![App Screenshot step1](./serveur/Images/PackageJsonBack.png)
 
 # Design patterns
 
@@ -16,5 +16,5 @@ Un fichier server.js cr√©e et distribue les informations sur le port 3000 par d√
 
 # Front End du projet collectif Nine Thirty
 
-![ray-so-export](https://github.com/adatechschool/projet-collectif---vente-de-meubles-le_bon_c/assets/123973678/e99f623b-a168-4115-83e9-03e85ea8f021)
+![ray-so-export](./client/nine_thirty/public/assets/PackageJsonFront.png)
 # 9.30_Git
